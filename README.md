@@ -1,2 +1,2 @@
 # Assignment-2
-Look at the notepad++ I added.
+Look at the notepad++ document I added.
